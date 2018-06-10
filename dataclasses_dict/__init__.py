@@ -1,0 +1,1 @@
+from dataclasses_dict.dataclasses_dict import DataclassDictMixin
